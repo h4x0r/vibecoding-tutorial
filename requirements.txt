@@ -1,0 +1,2 @@
+# The only thing needed to compile the tutorial into a site.
+markdown>=3.10,<4

@@ -1,0 +1,10 @@
+# The compiled site. Built by scripts/build_site.py and published by CI, so it
+# is never committed — that way the Markdown cannot drift from the HTML.
+_site/
+
+# Scratch renders from previewing the site locally.
+site-*.png
+.playwright-mcp/
+
+.DS_Store
+__pycache__/
