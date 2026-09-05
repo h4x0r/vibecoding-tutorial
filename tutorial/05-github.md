@@ -27,7 +27,7 @@ Not the current state of the folder. *Every* state it has ever been in, and who
 changed what, when, and why. A repo is less like a folder and more like a folder
 with a time machine bolted to it.
 
-You will make one repo, called `red-letter`, holding your calendar.
+You will make one repo, called `my-calendar`, holding your calendar.
 
 Two more words you will meet constantly:
 
@@ -48,7 +48,7 @@ Go to **[github.com/signup](https://github.com/signup)**.
 You need an email address, a password, and a username. Three notes:
 
 - **The username is public and appears in every URL** — your calendar will live
-  at `github.com/yourname/red-letter`. Pick something you would put on a CV.
+  at `github.com/yourname/my-calendar`. Pick something you would put on a CV.
   Changing it later breaks every link anyone has saved.
 - Use a **real email address you can open right now**; you will need to click a
   link in it.

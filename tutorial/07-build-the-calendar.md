@@ -11,11 +11,11 @@ cd ~/code
 ```
 
 ```bash
-npx create-next-app@latest red-letter
+npx create-next-app@latest my-calendar
 ```
 
 `npx` runs a program without permanently installing it. `create-next-app` builds
-the skeleton of a Next.js project. `red-letter` is the folder it creates.
+the skeleton of a Next.js project. `my-calendar` is the folder it creates.
 
 It asks one question:
 
@@ -56,7 +56,7 @@ worked.
 ## Look at what you got
 
 ```bash
-cd red-letter
+cd my-calendar
 ```
 
 ```bash
@@ -136,7 +136,7 @@ point before you have written anything.
 In your second window:
 
 ```bash
-cd ~/code/red-letter
+cd ~/code/my-calendar
 ```
 
 ```bash

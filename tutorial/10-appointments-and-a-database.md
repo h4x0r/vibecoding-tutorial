@@ -39,7 +39,7 @@ The vocabulary is smaller than it looks:
 
 Go to **[supabase.com](https://supabase.com)** and sign up — GitHub is easiest.
 
-Create a new project. You need a name (`red-letter`), a database password
+Create a new project. You need a name (`my-calendar`), a database password
 (**let it generate one, and let your browser save it**), and a region. Pick the
 region nearest your users; it is the physical location of the machine and it
 changes how fast the app feels.

@@ -88,7 +88,7 @@ Three things that check caught, each of which would have stopped you dead:
   that do nothing at all, repeated in blog post after blog post.
 
 The app is a separate repository so you can read the real thing, one commit per
-chapter: **`red-letter`**. Its full history is four commits, and each one is
+chapter: **`my-calendar`**. Its full history is four commits, and each one is
 described in the chapter that builds it.
 
 ---

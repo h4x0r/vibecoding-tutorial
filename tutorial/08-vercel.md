@@ -9,10 +9,10 @@ Your calendar exists on your laptop. This chapter gives it an address.
 In your project folder:
 
 ```bash
-gh repo create red-letter --public --source=. --push
+gh repo create my-calendar --public --source=. --push
 ```
 
-Four parts: create a repo called `red-letter`, make it public, use the folder
+Four parts: create a repo called `my-calendar`, make it public, use the folder
 you are standing in, and push what is already committed.
 
 > **Public or private?** Either works — GitHub's free plan gives unlimited
@@ -51,9 +51,9 @@ line.
 Click **Add New… → Project**, or go straight to
 **[vercel.com/new](https://vercel.com/new)**.
 
-You will see your GitHub repositories. Find `red-letter` and click **Import**.
+You will see your GitHub repositories. Find `my-calendar` and click **Import**.
 
-> **If `red-letter` is not in the list**, it is almost certainly the trap from
+> **If `my-calendar` is not in the list**, it is almost certainly the trap from
 > chapter 5: the repository belongs to a GitHub *organisation* rather than to
 > you. Vercel's free plan cannot connect to those, and it does not explain
 > itself — the repo is simply absent. Appendix A has the fix.
@@ -75,7 +75,7 @@ was working fine.
 You get a log, a minute or two of scrolling, and then confetti and a URL like:
 
 ```
-https://red-letter-abc123xyz-yourname.vercel.app
+https://my-calendar-abc123xyz-yourname.vercel.app
 ```
 
 **Click it.** That is your calendar, on the internet, reachable from your phone.
