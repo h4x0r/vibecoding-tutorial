@@ -2,6 +2,8 @@
 
 **Build a real web app with an AI assistant, and still understand it six months later.**
 
+📖 **Read it as a website: [h4x0r.github.io/vibecoding-tutorial](https://h4x0r.github.io/vibecoding-tutorial/)**
+
 This is a complete, hand-held course for someone who has never opened a
 terminal. Not "never written JavaScript" — never opened a terminal. If you do
 not know what a database is, what GitHub is for, or why anyone would type
@@ -88,8 +90,9 @@ Three things that check caught, each of which would have stopped you dead:
   that do nothing at all, repeated in blog post after blog post.
 
 The app is a separate repository so you can read the real thing, one commit per
-chapter: **`my-calendar`**. Its full history is four commits, and each one is
-described in the chapter that builds it.
+chapter: **[h4x0r/my-calendar](https://github.com/h4x0r/my-calendar)**. Its
+history is seven commits, and each one is described in the chapter that builds
+it — including the two that exist only because a test caught something.
 
 ---
 
