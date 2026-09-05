@@ -90,9 +90,9 @@ Three things that check caught, each of which would have stopped you dead:
   that do nothing at all, repeated in blog post after blog post.
 
 The app is a separate repository so you can read the real thing, one commit per
-chapter: **[h4x0r/my-calendar](https://github.com/h4x0r/my-calendar)**. Its
-history is seven commits, and each one is described in the chapter that builds
-it — including the two that exist only because a test caught something.
+chapter: **[h4x0r/my-calendar](https://github.com/h4x0r/my-calendar)**. Each
+commit is described in the chapter that builds it — including the ones that
+exist only because a test caught something.
 
 ---
 
