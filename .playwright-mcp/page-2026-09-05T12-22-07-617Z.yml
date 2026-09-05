@@ -1,0 +1,134 @@
+- generic [ref=f5e1]:
+  - main [aria-hidden] [ref=f5e2]:
+    - generic [ref=f5e3]:
+      - generic [ref=f5e4]:
+        - paragraph [ref=f5e5]: "2026"
+        - heading [level=1] [ref=f5e190]: September
+      - generic [ref=f5e7]:
+        - generic [ref=f5e8]:
+          - generic [ref=f5e9]: Holidays for
+          - combobox [ref=f5e191]:
+            - generic [ref=f5e11]: Hong Kong
+            - img [aria-hidden]: ▼
+          - textbox [aria-hidden] [ref=f5e12]: HK
+        - navigation [ref=f5e192]:
+          - link [ref=f5e193] [cursor=pointer]:
+            - /url: /?m=2026-08
+          - link [ref=f5e194] [cursor=pointer]:
+            - /url: /
+            - text: Today
+          - link [ref=f5e195] [cursor=pointer]:
+            - /url: /?m=2026-10
+    - generic [ref=f5e17]:
+      - generic [ref=f5e18]:
+        - generic [ref=f5e19]: Mon
+        - generic [ref=f5e20]: Tue
+        - generic [ref=f5e21]: Wed
+        - generic [ref=f5e22]: Thu
+        - generic [ref=f5e23]: Fri
+        - generic [ref=f5e24]: Sat
+        - generic [ref=f5e25]: Sun
+      - generic [ref=f5e26]:
+        - button [ref=f5e196]:
+          - generic [ref=f5e28]: "31"
+        - button [ref=f5e197]:
+          - generic [ref=f5e32]: "1"
+        - button [ref=f5e198]:
+          - generic [ref=f5e36]: "2"
+        - button [ref=f5e199]:
+          - generic [ref=f5e40]: "3"
+        - button [ref=f5e200]:
+          - generic [ref=f5e44]: "4"
+        - button [ref=f5e201]:
+          - generic [ref=f5e48]: "5"
+        - button [ref=f5e202]:
+          - generic [ref=f5e52]: "6"
+        - button [ref=f5e203]:
+          - generic [ref=f5e56]: "7"
+        - button [ref=f5e204]:
+          - generic [ref=f5e60]: "8"
+        - button [ref=f5e205]:
+          - generic [ref=f5e64]: "9"
+        - button [ref=f5e206]:
+          - generic [ref=f5e68]: "10"
+        - button [ref=f5e207]:
+          - generic [ref=f5e72]: "11"
+        - button [ref=f5e208]:
+          - generic [ref=f5e76]: "12"
+        - button [ref=f5e209]:
+          - generic [ref=f5e80]: "13"
+        - button [ref=f5e210]:
+          - generic [ref=f5e84]: "14"
+        - button [ref=f5e211]:
+          - generic [ref=f5e88]: "15"
+        - button [ref=f5e212]:
+          - generic [ref=f5e92]: "16"
+        - button [ref=f5e213]:
+          - generic [ref=f5e96]: "17"
+          - list [ref=f5e214]:
+            - listitem [ref=f5e215]: Dentist, 3pm
+        - button [ref=f5e216]:
+          - generic [ref=f5e100]: "18"
+        - button [ref=f5e217]:
+          - generic [ref=f5e104]: "19"
+        - button [ref=f5e218]:
+          - generic [ref=f5e108]: "20"
+        - button [ref=f5e219]:
+          - generic [ref=f5e112]: "21"
+        - button [ref=f5e220]:
+          - generic [ref=f5e116]: "22"
+        - button [ref=f5e221]:
+          - generic [ref=f5e120]: "23"
+        - button [ref=f5e222]:
+          - generic [ref=f5e124]: "24"
+        - button [ref=f5e223]:
+          - generic [ref=f5e128]: "25"
+        - button [ref=f5e224]:
+          - generic [ref=f5e132]: "26"
+          - list [ref=f5e135]:
+            - listitem [ref=f5e136]: The day following the Chinese Mid-Autumn Festival
+        - button [ref=f5e225]:
+          - generic [ref=f5e138]: "27"
+        - button [ref=f5e226]:
+          - generic [ref=f5e142]: "28"
+        - button [ref=f5e227]:
+          - generic [ref=f5e146]: "29"
+        - button [ref=f5e228]:
+          - generic [ref=f5e150]: "30"
+        - button [ref=f5e229]:
+          - generic [ref=f5e154]: "1"
+          - list [ref=f5e157]:
+            - listitem [ref=f5e158]: National Day
+        - button [ref=f5e230]:
+          - generic [ref=f5e160]: "2"
+        - button [ref=f5e231]:
+          - generic [ref=f5e164]: "3"
+        - button [ref=f5e232]:
+          - generic [ref=f5e168]: "4"
+    - generic [ref=f5e171]:
+      - generic [ref=f5e172]:
+        - heading [level=2] [ref=f5e233]: Red-letter days in September
+        - list [ref=f5e174]:
+          - listitem [ref=f5e175]: Sat 26The day following the Chinese Mid-Autumn Festival
+      - generic [ref=f5e176]:
+        - paragraph [ref=f5e177]: Showing Hong Kong.
+        - paragraph [ref=f5e178]: "A red-letter day is an old name for a holiday: in hand-written calendars, feast days were inked in red while ordinary days stayed black. This calendar keeps the habit."
+        - paragraph [ref=f5e179]:
+          - text: Holiday data from
+          - link [ref=f5e234] [cursor=pointer]:
+            - /url: https://github.com/commenthol/date-holidays
+            - text: date-holidays
+          - text: ", CC BY-SA 3.0."
+  - button "Open Next.js Dev Tools" [ref=f5e186] [cursor=pointer]
+  - alert [ref=f5e235]
+  - dialog [ref=f5e239]:
+    - generic [ref=f5e240]:
+      - heading "Saturday 26 September 2026" [level=2] [ref=f5e241]
+      - paragraph [ref=f5e242]: The day following the Chinese Mid-Autumn Festival
+    - list [ref=f5e243]:
+      - listitem [ref=f5e244]: Nothing written here yet.
+    - generic [ref=f5e245]:
+      - textbox "What is happening?" [active] [ref=f5e246]:
+        - /placeholder: Dentist, 3pm
+      - button "Add" [disabled]
+    - button "Close" [ref=f5e247]

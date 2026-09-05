@@ -1,0 +1,151 @@
+- generic [active] [ref=f4e1]:
+  - main [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - generic [ref=f4e4]:
+        - paragraph [ref=f4e5]: "2026"
+        - heading "September" [level=1] [ref=f4e6]
+      - generic [ref=f4e7]:
+        - generic [ref=f4e8]:
+          - generic [ref=f4e9]: Holidays for
+          - combobox "Country" [ref=f4e10]:
+            - generic [ref=f4e11]: Hong Kong
+            - img [aria-hidden]: ▼
+          - textbox [aria-hidden] [ref=f4e12]: HK
+        - navigation "Change month" [ref=f4e13]:
+          - link "Go to August 2026" [ref=f4e14] [cursor=pointer]:
+            - /url: /?m=2026-08
+          - link "Today" [ref=f4e15] [cursor=pointer]:
+            - /url: /
+          - link "Go to October 2026" [ref=f4e16] [cursor=pointer]:
+            - /url: /?m=2026-10
+    - generic [ref=f4e17]:
+      - generic [ref=f4e18]:
+        - generic [ref=f4e19]: Mon
+        - generic [ref=f4e20]: Tue
+        - generic [ref=f4e21]: Wed
+        - generic [ref=f4e22]: Thu
+        - generic [ref=f4e23]: Fri
+        - generic [ref=f4e24]: Sat
+        - generic [ref=f4e25]: Sun
+      - generic [ref=f4e26]:
+        - button "Monday 31 August 2026" [ref=f4e27]:
+          - generic [ref=f4e28]: "31"
+          - list
+        - button "Tuesday 1 September 2026" [ref=f4e31]:
+          - generic [ref=f4e32]: "1"
+          - list
+        - button "Wednesday 2 September 2026" [ref=f4e35]:
+          - generic [ref=f4e36]: "2"
+          - list
+        - button "Thursday 3 September 2026" [ref=f4e39]:
+          - generic [ref=f4e40]: "3"
+          - list
+        - button "Friday 4 September 2026" [ref=f4e43]:
+          - generic [ref=f4e44]: "4"
+          - list
+        - button "Saturday 5 September 2026" [ref=f4e47]:
+          - generic [ref=f4e48]: "5"
+          - list
+        - button "Sunday 6 September 2026" [ref=f4e51]:
+          - generic [ref=f4e52]: "6"
+          - list
+        - button "Monday 7 September 2026" [ref=f4e55]:
+          - generic [ref=f4e56]: "7"
+          - list
+        - button "Tuesday 8 September 2026" [ref=f4e59]:
+          - generic [ref=f4e60]: "8"
+          - list
+        - button "Wednesday 9 September 2026" [ref=f4e63]:
+          - generic [ref=f4e64]: "9"
+          - list
+        - button "Thursday 10 September 2026" [ref=f4e67]:
+          - generic [ref=f4e68]: "10"
+          - list
+        - button "Friday 11 September 2026" [ref=f4e71]:
+          - generic [ref=f4e72]: "11"
+          - list
+        - button "Saturday 12 September 2026" [ref=f4e75]:
+          - generic [ref=f4e76]: "12"
+          - list
+        - button "Sunday 13 September 2026" [ref=f4e79]:
+          - generic [ref=f4e80]: "13"
+          - list
+        - button "Monday 14 September 2026" [ref=f4e83]:
+          - generic [ref=f4e84]: "14"
+          - list
+        - button "Tuesday 15 September 2026" [ref=f4e87]:
+          - generic [ref=f4e88]: "15"
+          - list
+        - button "Wednesday 16 September 2026" [ref=f4e91]:
+          - generic [ref=f4e92]: "16"
+          - list
+        - button "Thursday 17 September 2026" [ref=f4e95]:
+          - generic [ref=f4e96]: "17"
+          - list
+        - button "Friday 18 September 2026" [ref=f4e99]:
+          - generic [ref=f4e100]: "18"
+          - list
+        - button "Saturday 19 September 2026" [ref=f4e103]:
+          - generic [ref=f4e104]: "19"
+          - list
+        - button "Sunday 20 September 2026" [ref=f4e107]:
+          - generic [ref=f4e108]: "20"
+          - list
+        - button "Monday 21 September 2026" [ref=f4e111]:
+          - generic [ref=f4e112]: "21"
+          - list
+        - button "Tuesday 22 September 2026" [ref=f4e115]:
+          - generic [ref=f4e116]: "22"
+          - list
+        - button "Wednesday 23 September 2026" [ref=f4e119]:
+          - generic [ref=f4e120]: "23"
+          - list
+        - button "Thursday 24 September 2026" [ref=f4e123]:
+          - generic [ref=f4e124]: "24"
+          - list
+        - button "Friday 25 September 2026" [ref=f4e127]:
+          - generic [ref=f4e128]: "25"
+          - list
+        - button "Saturday 26 September 2026, The day following the Chinese Mid-Autumn Festival" [ref=f4e131]:
+          - generic [ref=f4e132]: "26"
+          - list [ref=f4e135]:
+            - listitem [ref=f4e136]: The day following the Chinese Mid-Autumn Festival
+        - button "Sunday 27 September 2026" [ref=f4e137]:
+          - generic [ref=f4e138]: "27"
+          - list
+        - button "Monday 28 September 2026" [ref=f4e141]:
+          - generic [ref=f4e142]: "28"
+          - list
+        - button "Tuesday 29 September 2026" [ref=f4e145]:
+          - generic [ref=f4e146]: "29"
+          - list
+        - button "Wednesday 30 September 2026" [ref=f4e149]:
+          - generic [ref=f4e150]: "30"
+          - list
+        - button "Thursday 1 October 2026, National Day" [ref=f4e153]:
+          - generic [ref=f4e154]: "1"
+          - list [ref=f4e157]:
+            - listitem [ref=f4e158]: National Day
+        - button "Friday 2 October 2026" [ref=f4e159]:
+          - generic [ref=f4e160]: "2"
+          - list
+        - button "Saturday 3 October 2026" [ref=f4e163]:
+          - generic [ref=f4e164]: "3"
+          - list
+        - button "Sunday 4 October 2026" [ref=f4e167]:
+          - generic [ref=f4e168]: "4"
+          - list
+    - generic [ref=f4e171]:
+      - generic [ref=f4e172]:
+        - heading "Red-letter days in September" [level=2] [ref=f4e173]
+        - list [ref=f4e174]:
+          - listitem [ref=f4e175]: Sat 26The day following the Chinese Mid-Autumn Festival
+      - generic [ref=f4e176]:
+        - paragraph [ref=f4e177]: Showing Hong Kong.
+        - paragraph [ref=f4e178]: "A red-letter day is an old name for a holiday: in hand-written calendars, feast days were inked in red while ordinary days stayed black. This calendar keeps the habit."
+        - paragraph [ref=f4e179]:
+          - text: Holiday data from
+          - link "date-holidays" [ref=f4e180] [cursor=pointer]:
+            - /url: https://github.com/commenthol/date-holidays
+          - text: ", CC BY-SA 3.0."
+  - button "Open Next.js Dev Tools" [ref=f4e186] [cursor=pointer]
