@@ -179,9 +179,7 @@ for twenty years.
 
 The pictures in this chapter come from a clean, brand-new macOS installation, so
 you are seeing what a fresh machine really looks like rather than a tidied-up
-version of mine. The only cosmetic change is a plain green desktop instead of
-the default photograph, so that nothing competes with the window you are meant
-to be looking at.
+version of mine.
 
 One difference to flag, because I would rather tell you than have you wonder
 later: that particular machine happens to have **Node and Git already
