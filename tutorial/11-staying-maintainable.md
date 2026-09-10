@@ -84,6 +84,12 @@ anything deciding who may see what.
 And **make each test fail once on purpose.** A green suite you have never seen
 go red is not evidence of anything.
 
+The same applies to any check you run by hand, and it is easier to get wrong
+than it sounds. If a check comes back "nothing found", ask whether it *could
+have* found something — run it against a case you know is there and watch it
+say so. A check that never had a chance of reporting a problem will report no
+problems all day, and it looks exactly like good news.
+
 ### 7. Never let a secret near git
 
 `.env.local` for keys. `NEXT_PUBLIC_` only for things you would print on a
