@@ -6,5 +6,13 @@ _site/
 site-*.png
 .playwright-mcp/
 
+# Claude Code session state, including worktrees.
+.claude/
+
+# Supabase CLI scratch. This repo has no Supabase project — the directory only
+# appears if a `supabase` command is run from here by mistake, and .temp/
+# records which project the CLI was last linked to.
+supabase/
+
 .DS_Store
 __pycache__/
